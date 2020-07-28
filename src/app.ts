@@ -40,6 +40,5 @@ const main = async () => {
 main()
 
 
-// todo tsconfig  参考video
-// todo tsc自动化编译  参考video
-// todo 根据接口自动生成接口文档  参考video
+// todo 加入日志，日志排错常用操作
+// todo 根据接口自动生成接口文档
